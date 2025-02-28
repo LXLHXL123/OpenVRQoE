@@ -41,3 +41,5 @@
 <https://vision.nju.edu.cn/20/86/c29466a467078/page.htm><br>
 **[10] Perceptual quality assessment of virtual reality videos in the wild.**<br>
 <https://github.com/limuhit/VR-Video-Quality-in-the-Wild><br>
+**[11] Learned scanpaths aid blind panoramic video quality assessment.**<br>
+<https://github.com/kalofan/AutoScanpathQA><br>
