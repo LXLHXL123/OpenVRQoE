@@ -25,6 +25,8 @@
 <https://github.com/WenJuing/IQCaption360><br>
 **[12] Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention.**<br>
 <https://github.com/WenJuing/Max360IQ><br>
+**[13] Viewport-unaware blind omnidirectional image quality assessment: A flexible and effective paradigm.**<br>
+<https://github.com/KangchengWu/OIQA><br>
 
 ### 2. VRVQA
 **[1] Quality metric for spherical panoramic video.**<br>
