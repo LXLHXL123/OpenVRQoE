@@ -19,6 +19,12 @@
 <https://github.com/xiangjieSui/GSR><br>
 **[9] Multitask auxiliary network for perceptual quality assessment of non-uniformly distorted omnidirectional images.**<br>
 <https://github.com/RJL2000/MTAOIQA><br>
+**[10] Subjective and objective quality assessment of non-uniformly distorted omnidirectional images.**<br>
+<https://github.com/RJL2000/OIQAND><br>
+**[11] Omnidirectional image quality captioning: A large-scale database and a new model.**<br>
+<https://github.com/WenJuing/IQCaption360><br>
+**[12] Max360IQ: Blind omnidirectional image quality assessment with multi-axis attention.**<br>
+<https://github.com/WenJuing/Max360IQ><br>
 
 ### 2. VRVQA
 **[1] Quality metric for spherical panoramic video.**<br>
