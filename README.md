@@ -16,28 +16,28 @@
     <tr>
         <td>[2]</td>
         <td>Salient!360</td>
-        <td><https://www.technicolor.com/dream/researchinnovation/salient-dataset-download></td>
+        <td>https://www.technicolor.com/dream/researchinnovation/salient-dataset-download</td>
         <td>2017</td>
         <td>University of Nantes</td>
     </tr>
     <tr>
         <td>[3]</td>
         <td>ODI Saliency</td>
-        <td><https://vsense.scss.tcd.ie/research/3dof/testbed/></td>
+        <td>https://vsense.scss.tcd.ie/research/3dof/testbed/</td>
         <td>2017</td>
         <td>Trinity College Dublin</td>
     </tr>
     <tr>
         <td>[4]</td>
         <td>VR Saliency</td>
-        <td><https://vsitzmann.github.io/vr-saliency/></td>
+        <td>https://vsitzmann.github.io/vr-saliency/</td>
         <td>2018</td>
         <td>Trinity College Dublin</td>
     </tr>
     <tr>
         <td>[5]</td>
         <td>F-360iSOD</td>
-        <td><https://github.com/PanoAsh/F-360iSOD></td>
+        <td>https://github.com/PanoAsh/F-360iSOD</td>
         <td>2020</td>
         <td>University of Rennes</td>
     </tr>
