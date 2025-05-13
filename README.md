@@ -1,6 +1,11 @@
 # OpenVRQoE
 
-### 1. VRIQA
+## 1. Visual Attention
+
+
+
+## 2. QoE
+### (1) VRIQA
 **[1] Spatial attention-based non-reference perceptual quality prediction network for omnidirectional images.**<br>
 <https://github.com/yanglixiaoshen/SAP-Net><br>
 **[2] MC360IQA: A multi-channel cnn for blind 360-degree image quality assessment.**<br>
@@ -30,7 +35,7 @@
 **[14] Viewport-unaware blind omnidirectional image quality assessment: A flexible and effective paradigm.**<br>
 <https://github.com/KangchengWu/OIQA><br>
 
-### 2. VRVQA
+### (2) VRVQA
 **[1] Quality metric for spherical panoramic video.**<br>
 <https://github.com/Samsung/360tools><br>
 **[2] Weighted-to-spherically-uniform quality evaluation for omnidirectional video.**<br>
