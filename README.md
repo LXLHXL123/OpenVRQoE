@@ -44,6 +44,109 @@
 </table>
           
 ### (2) 360◦ Video
+<table>
+<tbody>
+    <tr>
+        <th>Index</th><th>Name</th><th>URL</th><th>Year</th><th>Affiliation</th>
+    <tr>
+        <td>[1]</td>
+        <td>Moving Target</td>
+        <td>http://360videoexp.com/</td>
+        <td></td>
+        <td>University of California</td>
+    </tr>
+    <tr>
+        <td>[2]</td>
+        <td>UN Salient360</td>
+        <td>https://salient360.ls2n.fr/</td>
+        <td></td>
+        <td>University of Nantes</td>
+    </tr>
+    <tr>
+        <td>[3]</td>
+        <td>PanoSaliency</td>
+        <td>https://github.com/phananh1010/PanoSaliency</td>
+        <td></td>
+        <td>Georgia State University</td>
+    </tr>
+    <tr>
+        <td>[4]</td>
+        <td>360 Video Database</td>
+        <td>http://vhil.stanford.edu/360-video-database/</td>
+        <td></td>
+        <td>Stanford University</td>
+    </tr>
+    <tr>
+        <td>[5]</td>
+        <td>360 Head Movement</td>
+        <td>http://dash.ipv6.enstb.fr/headMovements/</td>
+        <td></td>
+        <td>IMT Atlantique</td>
+    </tr>
+    <tr>
+        <td>[6]</td>
+        <td>VR User Behavior</td>
+        <td>https://wuchlei-thu.github.io/</td>
+        <td></td>
+        <td>Tsinghua University</td>
+    </tr>
+    <tr>
+        <td>[7]</td>
+        <td>VR-HM48</td>
+        <td>https://github.com/Archer-Tatsu/head-tracking</td>
+        <td></td>
+        <td>Beihang University</td>
+    </tr>
+    <tr>
+        <td>[8]</td>
+        <td>360 Dataset</td>
+        <td>https://nmsl.cs.nthu.edu.tw/360-video-project/</td>
+        <td></td>
+        <td>National Tsing Hua University</td>
+    </tr>
+    <tr>
+        <td>[9]</td>
+        <td>Sports-360</td>
+        <td>http://aliensunmin.github.io/project/360video/</td>
+        <td></td>
+        <td>National Tsing Hua University</td>
+    </tr>
+    <tr>
+        <td>[10]</td>
+        <td>PVS-HM</td>
+        <td>https://github.com/YuhangSong/DHP</td>
+        <td></td>
+        <td>Beihang University</td>
+    </tr>
+    <tr>
+        <td>[11]</td>
+        <td>VR Eye-Tracking</td>
+        <td>https://github.com/xuyanyu-shh/VR-EyeTracking</td>
+        <td></td>
+        <td>ShanghaiTech University</td>
+    </tr>
+    <tr>
+        <td>[12]</td>
+        <td>Desktop360</td>
+        <td>http://videolab.engineering.nyu.edu/Desktop360/</td>
+        <td></td>
+        <td>New York University</td>
+    </tr>
+    <tr>
+        <td>[13]</td>
+        <td>AVTrack360</td>
+        <td>https://github.com/acmmmsys/2018-AVTrack360</td>
+        <td></td>
+        <td>Technical University Ilmenau</td>
+    </tr>
+    <tr>
+        <td>[14]</td>
+        <td>360 EM Dataset</td>
+        <td>https://web.gin.gnode.org/ioannis.agtzidis/360_em_dataset</td>
+        <td></td>
+        <td>Technical University of Munich</td>
+    </tr>
+</table>
 
 ## 2. QoE
 ### (1) VRIQA
