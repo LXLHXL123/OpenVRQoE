@@ -9,7 +9,7 @@
     <tr>
         <td>[1]</td>
         <td>SUN360</td>
-        <td>[Website](http://3dvision.princeton.edu/projects/2012/SUN360/)</td>
+        <td>http://3dvision.princeton.edu/projects/2012/SUN360/</td>
         <td>2012</td>
         <td>Princeton University</td>
     </tr>
