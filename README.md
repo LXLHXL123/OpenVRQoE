@@ -57,59 +57,59 @@
     </tr>
     <tr>
         <td>[2]</td>
-        <td>UN Salient360</td>
-        <td>https://salient360.ls2n.fr/</td>
-        <td>2018</td>
-        <td>University of Nantes</td>
-    </tr>
-    <tr>
-        <td>[3]</td>
-        <td>PanoSaliency</td>
-        <td>https://github.com/phananh1010/PanoSaliency</td>
-        <td>2019</td>
-        <td>Georgia State University</td>
-    </tr>
-    <tr>
-        <td>[4]</td>
         <td>360 Video Database</td>
         <td>http://vhil.stanford.edu/360-video-database/</td>
         <td>2017</td>
         <td>Stanford University</td>
     </tr>
     <tr>
-        <td>[5]</td>
+        <td>[3]</td>
         <td>360 Head Movement</td>
         <td>http://dash.ipv6.enstb.fr/headMovements/</td>
         <td>2017</td>
         <td>IMT Atlantique</td>
     </tr>
     <tr>
-        <td>[6]</td>
+        <td>[4]</td>
         <td>VR User Behavior</td>
         <td>https://wuchlei-thu.github.io/</td>
         <td>2017</td>
         <td>Tsinghua University</td>
     </tr>
     <tr>
-        <td>[7]</td>
+        <td>[5]</td>
         <td>VR-HM48</td>
         <td>https://github.com/Archer-Tatsu/head-tracking</td>
         <td>2017</td>
         <td>Beihang University</td>
     </tr>
     <tr>
-        <td>[8]</td>
+        <td>[6]</td>
         <td>360 Dataset</td>
         <td>https://nmsl.cs.nthu.edu.tw/360-video-project/</td>
         <td>2017</td>
         <td>National Tsing Hua University</td>
     </tr>
     <tr>
-        <td>[9]</td>
+        <td>[7]</td>
         <td>Sports-360</td>
         <td>http://aliensunmin.github.io/project/360video/</td>
         <td>2017</td>
         <td>National Tsing Hua University</td>
+    </tr>
+    <tr>
+        <td>[8]</td>
+        <td>UN Salient360</td>
+        <td>https://salient360.ls2n.fr/</td>
+        <td>2018</td>
+        <td>University of Nantes</td>
+    </tr>
+    <tr>
+        <td>[9]</td>
+        <td>PanoSaliency</td>
+        <td>https://github.com/phananh1010/PanoSaliency</td>
+        <td>2019</td>
+        <td>Georgia State University</td>
     </tr>
     <tr>
         <td>[10]</td>
