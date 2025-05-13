@@ -149,7 +149,158 @@
 </table>
 
 ## 2. QoE
-### (1) VRIQA
+### 2.1 Data
+#### (1) 360◦ Image
+<table>
+<tbody>
+    <tr>
+        <th>Index</th><th>Name</th><th>URL</th><th>Year</th><th>Affiliation</th>
+    <tr>
+        <td>[1]</td>
+        <td>Upenik</td>
+        <td>-</td>
+        <td>2016</td>
+        <td>Ecole Polytechnique Federale de Lausanne</td>
+    </tr>
+    <tr>
+        <td>[2]</td>
+        <td>Upenik</td>
+        <td>-</td>
+        <td>2017</td>
+        <td>Ecole Polytechnique Federale de Lausanne</td>
+    </tr>
+    <tr>
+        <td>[3]</td>
+        <td>CVIQD</td>
+        <td>-</td>
+        <td>2017</td>
+        <td>Shanghai Jiao Tong University</td>
+    </tr>
+    <tr>
+        <td>[4]</td>
+        <td>CVIQD2018</td>
+        <td>https://github.com/sunwei925/CVIQDatabase</td>
+        <td>2018</td>
+        <td>Shanghai Jiao Tong University</td>
+    </tr>
+    <tr>
+        <td>[5]</td>
+        <td>Huang</td>
+        <td>https://live.ece.utexas.edu/research/quality/immersive_images/</td>
+        <td>2018</td>
+        <td>Nanjing University</td>
+    </tr>
+    <tr>
+        <td>[6]</td>
+        <td>OIQA</td>
+        <td>https://duanhuiyu.github.io/</td>
+        <td>2018</td>
+        <td>Shanghai Jiao Tong University</td>
+    </tr>
+    <tr>
+        <td>[7]</td>
+        <td>Upenik</td>
+        <td>https://github.com/mmspg/saliencymetric360</td>
+        <td>2019</td>
+        <td>Ecole Polytechnique Federale de Lausanne</td>
+    </tr>
+    <tr>
+        <td>[8]</td>
+        <td>Kim</td>
+        <td>http://ivylabdb.kaist.ac.kr</td>
+        <td>2020</td>
+        <td>Korea Advanced Institute of Science and Technology</td>
+    </tr>
+    <tr>
+        <td>[9]</td>
+        <td>Jabar</td>
+        <td>https://github.com/jascenso/IST-GPP-Dataset</td>
+        <td>2020</td>
+        <td>Universidade de Lisboa-Instituto de Telecomunicacoes</td>
+    </tr>
+    <tr>
+        <td>[10]</td>
+        <td>ISIQA</td>
+        <td>https://pavancm.github.io/stitched-qa/</td>
+        <td>2021</td>
+        <td>Indian Institute of Science</td>
+    </tr>
+    <tr>
+        <td>[11]</td>
+        <td>MVAQD</td>
+        <td>https://github.com/Jianghao2019/MVAQD</td>
+        <td>2021</td>
+        <td>Ningbo University</td>
+    </tr>
+    <tr>
+        <td>[12]</td>
+        <td>IQA-ODI</td>
+        <td>https://github.com/yanglixiaoshen/SAP-Net</td>
+        <td>2021</td>
+        <td>Beihang University</td>
+    </tr>
+    <tr>
+        <td>[13]</td>
+        <td>Fang</td>
+        <td>https://github.com/LXLHXL123/JUFE-VRIQA</td>
+        <td>2022</td>
+        <td>Jiangxi University of Finance and Economics</td>
+    </tr>
+    <tr>
+        <td>[14]</td>
+        <td>OSIQA</td>
+        <td>https://duanhuiyu.github.io/</td>
+        <td>2023</td>
+        <td>Shanghai Jiao Tong University</td>
+    </tr>
+    <tr>
+        <td>[15]</td>
+        <td>Simka</td>
+        <td>https://zenodo.org/records/10422786</td>
+        <td>2024</td>
+        <td>Brno University of Technology</td>
+    </tr>
+    <tr>
+        <td>[16]</td>
+        <td>JUFE-10K</td>
+        <td>https://github.com/RJL2000/OIQAND</td>
+        <td>2025</td>
+        <td>Jiangxi University of Finance and Economics</td>
+    </tr>
+    <tr>
+        <td>[17]</td>
+        <td>OIQ-10K</td>
+        <td>https://github.com/WenJuing/IQCaption360</td>
+        <td>2025</td>
+        <td>Jiangxi University of Finance and Economics</td>
+    </tr>
+    <tr>
+        <td>[18]</td>
+        <td>SOLID</td>
+        <td>https://faculty.ustc.edu.cn/chenzhibo/zh_CN/article/988216/content/2461.htm#article</td>
+        <td>2018</td>
+        <td>University of Science and Technology of China</td>
+    </tr>
+    <tr>
+        <td>[19]</td>
+        <td>LIVE 3D VR IQA</td>
+        <td>http://live.ece.utexas.edu/research/VR3D/index.html</td>
+        <td>2020</td>
+        <td>University of Texas at Austin</td>
+    </tr>
+    <tr>
+        <td>[20]</td>
+        <td>NBU-SOID</td>
+        <td>https://github.com/qyb123/NBU-SOID</td>
+        <td>2020</td>
+        <td>Ningbo University</td>
+    </tr>
+</table>
+
+#### (2) 360◦ Video
+
+### 2.2 Model
+#### (1) VRIQA
 **[1] Spatial attention-based non-reference perceptual quality prediction network for omnidirectional images.**<br>
 <https://github.com/yanglixiaoshen/SAP-Net><br>
 **[2] MC360IQA: A multi-channel cnn for blind 360-degree image quality assessment.**<br>
@@ -179,7 +330,7 @@
 **[14] Viewport-unaware blind omnidirectional image quality assessment: A flexible and effective paradigm.**<br>
 <https://github.com/KangchengWu/OIQA><br>
 
-### (2) VRVQA
+#### (2) VRVQA
 **[1] Quality metric for spherical panoramic video.**<br>
 <https://github.com/Samsung/360tools><br>
 **[2] Weighted-to-spherically-uniform quality evaluation for omnidirectional video.**<br>
