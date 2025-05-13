@@ -346,52 +346,73 @@
     </tr>
     <tr>
         <td>[7]</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Mahmoudpour-TCSVT2021</td>
+        <td>http://data.etrovub.be/qualitydb/judder-vqa/</td>
+        <td>2021</td>
+        <td>Vrije Universiteit Brussel</td>
     </tr>
     <tr>
         <td>[8]</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Fang-VRW2023</td>
+        <td>https://github.com/Yao-Yiru/VR-Video-Database</td>
+        <td>2023</td>
+        <td>Jiangxi University of Finance and Economics</td>
     </tr>
     <tr>
         <td>[9]</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Zou-Access2018</td>
+        <td>-</td>
+        <td>2018</td>
+        <td>Xidian University</td>
     </tr>
     <tr>
         <td>[10]</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Zhang-ICASSP2019</td>
+        <td>-</td>
+        <td>2019</td>
+        <td>Xidian University</td>
     </tr>
     <tr>
         <td>[11]</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Zou-ICMEW2020</td>
+        <td>-</td>
+        <td>2020</td>
+        <td>Xidian University</td>
     </tr>
     <tr>
         <td>[12]</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Tran-ICUFN2017</td>
+        <td>-</td>
+        <td>2017</td>
+        <td>The University of Aizu</td>
     </tr>
     <tr>
         <td>[13]</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Tran-MMSP2017</td>
+        <td>-</td>
+        <td>2017</td>
+        <td>The University of Aizu</td>
+    </tr>
+    <tr>
+        <td>[14]</td>
+        <td>Singla-ACMM2017</td>
+        <td>-</td>
+        <td>2017</td>
+        <td>Technical University of Ilmenau, Germany</td>
+    </tr>
+    <tr>
+        <td>[15]</td>
+        <td>Singla-QoMEX2017</td>
+        <td>https://zenodo.org/record/571065#.WQmaTYh95hE</td>
+        <td>2017</td>
+        <td>Technical University of Ilmenau, Germany</td>
+    </tr>
+    <tr>
+        <td>[16]</td>
+        <td>Singla-MMSys2019</td>
+        <td>-</td>
+        <td>2019</td>
+        <td>Technical University of Ilmenau, Germany</td>
     </tr>
 </table>
 
