@@ -298,6 +298,102 @@
 </table>
 
 #### (2) 360◦ Video
+<table>
+<tbody>
+    <tr>
+        <th>Index</th><th>Name</th><th>URL</th><th>Year</th><th>Affiliation</th>
+    <tr>
+        <td>[1]</td>
+        <td>IVQAD</td>
+        <td>https://duanhuiyu.github.io/</td>
+        <td>2017</td>
+        <td>Shanghai Jiao Tong University</td>
+    </tr>
+    <tr>
+        <td>[2]</td>
+        <td>ODV Dataset</td>
+        <td>https://v-sense.scss.tcd.ie/research/voronoibased-objective-metrics/</td>
+        <td>2019</td>
+        <td>Trinity College Dublin</td>
+    </tr>
+    <tr>
+        <td>[3]</td>
+        <td>VRQ-TJU</td>
+        <td>ftp://eeec.tju.edu.cn/VR</td>
+        <td>2018</td>
+        <td>Tianjin University</td>
+    </tr>
+    <tr>
+        <td>[4]</td>
+        <td>VR-VQA48</td>
+        <td>https://github.com/Archer-Tatsu/head-tracking</td>
+        <td>2017</td>
+        <td>Beihang University</td>
+    </tr>
+    <tr>
+        <td>[5]</td>
+        <td>VQA-ODV</td>
+        <td>https://github.com/Archer-Tatsu/VQA-ODV</td>
+        <td>2018</td>
+        <td>Beihang University</td>
+    </tr>
+    <tr>
+        <td>[6]</td>
+        <td>Zhang-TBC2018</td>
+        <td>-</td>
+        <td>2018</td>
+        <td>Wuhan University</td>
+    </tr>
+    <tr>
+        <td>[7]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[8]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[9]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[10]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[11]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[12]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>[13]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 ### 2.2 Model
 #### (1) VRIQA
