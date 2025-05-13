@@ -408,11 +408,116 @@
         <td>Technical University of Ilmenau, Germany</td>
     </tr>
     <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>[16]</td>
         <td>Singla-MMSys2019</td>
         <td>-</td>
         <td>2019</td>
         <td>Technical University of Ilmenau, Germany</td>
+    </tr>
+     <tr>
+        <td>[17]</td>
+        <td>Orduna-VRW2020</td>
+        <td>www.gti.ssr.upm.es/data/</td>
+        <td>2020</td>
+        <td>Universidad Politecnica de Madrid, Spain</td>
+    </tr>
+     <tr>
+        <td>[18]</td>
+        <td>Cortes-QoMEX2020</td>
+        <td>-</td>
+        <td>2020</td>
+        <td>Universidad Politecnica de Madrid, Spain</td>
+    </tr>
+     <tr>
+        <td>[19]</td>
+        <td>Lopes-SPIE2018</td>
+        <td>-</td>
+        <td>2018</td>
+        <td>Universidade de Lisboa, Portugal</td>
+    </tr>
+     <tr>
+        <td>[20]</td>
+        <td>Jabar-ICMEW2020</td>
+        <td></td>
+        <td></td>
+        <td>Universidade de Lisboa, Portugal</td>
+    </tr>
+     <tr>
+        <td>[21]</td>
+        <td>Zhang-ICMEW2017</td>
+        <td>-</td>
+        <td>2017</td>
+        <td>Beijing Institute of Technology</td>
+    </tr>
+     <tr>
+        <td>[22]</td>
+        <td>Anwar-Access2020-1</td>
+        <td>-</td>
+        <td>2020</td>
+        <td>Beijing Institute of Technology</td>
+    </tr>
+     <tr>
+        <td>[23]</td>
+        <td> Anwar-Access2020-2</td>
+        <td>-</td>
+        <td>2020</td>
+        <td>Beijing Institute of Technology</td>
+    </tr>
+     <tr>
+        <td>[24]</td>
+        <td>Anwar-SCIS2020</td>
+        <td>-</td>
+        <td>2020</td>
+        <td>Beijing Institute of Technology</td>
+    </tr>
+     <tr>
+        <td>[25]</td>
+        <td>Zheleva-QoMEX2020</td>
+        <td>https://osf.io/48h26/?view_only=95dcbe79c0194487a684464e7f60e63f</td>
+        <td>2020</td>
+        <td>Ghent University, Belgium</td>
+    </tr>
+     <tr>
+        <td>[26]</td>
+        <td>Schatz-QoMEX2017</td>
+        <td>-</td>
+        <td>2017</td>
+        <td>Austrian Institute of Technology</td>
+    </tr>
+     <tr>
+        <td>[27]</td>
+        <td>Schatz-QoMEX2019</td>
+        <td></td>
+        <td>2019</td>
+        <td>Austrian Institute of Technology</td>
+    </tr>
+     <tr>
+        <td>[28]</td>
+        <td>Yao-QoMEX2019</td>
+        <td></td>
+        <td>2019</td>
+        <td>National Tsing Hua University</td>
+    </tr>
+     <tr>
+        <td>[29]</td>
+        <td>Li-GLOBECOM2018</td>
+        <td>-</td>
+        <td>2018</td>
+        <td>Hefei University of Technology</td>
+    </tr>
+     <tr>
+        <td>[30]</td>
+        <td>Curcio-AltMM2017</td>
+        <td>-</td>
+        <td>2017</td>
+        <td>Tampere University of Technology, Finland</td>
     </tr>
 </table>
 
