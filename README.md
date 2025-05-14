@@ -519,6 +519,104 @@
         <td>2017</td>
         <td>Tampere University of Technology, Finland</td>
     </tr>
+     <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+     <tr>
+        <td>[31]</td>
+        <td>SSV360</td>
+        <td>https://github.com/MajedElwardy/SSV360</td>
+        <td>2022</td>
+        <td>Blekinge Institute of Technology, Sweden</td>
+    </tr>
+     <tr>
+        <td>[32]</td>
+        <td>ACR360</td>
+        <td>https://github.com/MajedElwardy/ACR360</td>
+        <td>2023</td>
+        <td>Blekinge Institute of Technology, Sweden</td>
+    </tr>
+     <tr>
+        <td>[33]</td>
+        <td>Chu-ICVRV2020</td>
+        <td>-</td>
+        <td>2020</td>
+        <td>Blekinge Institute of Technology, Sweden</td>
+    </tr>
+     <tr>
+        <td>[34]</td>
+        <td>Zepernick-ICSPCS2019</td>
+        <td>-</td>
+        <td>2019</td>
+        <td>Blekinge Institute of Technology, Sweden</td>
+    </tr>
+     <tr>
+        <td>[35]</td>
+        <td>Fei-JSTSP2020</td>
+        <td>-</td>
+        <td>2020</td>
+        <td>Beijing Institute of Technology</td>
+    </tr>
+     <tr>
+        <td>[36]</td>
+        <td>Xie-TCSVT2020</td>
+        <td>http://vision.nju.edu.cn/index.php/data-base/item/85-vds</td>
+        <td>2020</td>
+        <td>Shanghai Jiao Tong University</td>
+    </tr>
+     <tr>
+        <td>[37]</td>
+        <td>Zou-TCSVT2021</td>
+        <td>-</td>
+        <td>2021</td>
+        <td>Xidian University</td>
+    </tr>
+     <tr>
+        <td>[38]</td>
+        <td>Meng-TCSVT2022</td>
+        <td>https://vision.nju.edu.cn/20/86/c29466a467078/page.htm</td>
+        <td>2022</td>
+        <td>Nanjing University</td>
+    </tr>
+     <tr>
+        <td>[39]</td>
+        <td>VRQoE-JUFE</td>
+        <td>https://github.com/LXLHXL123/JUFE-VRQoE</td>
+        <td>2024</td>
+        <td>Jiangxi University of Finance and Economics</td>
+    </tr>
+     <tr>
+        <td>[40]</td>
+        <td>Zhang-ICMEW2018</td>
+        <td>-</td>
+        <td>2018</td>
+        <td>Beijing Institute of Technology</td>
+    </tr>
+     <tr>
+        <td>[41]</td>
+        <td>Fela-ICMEW2022</td>
+        <td>https://bit.ly/HOA-SSR-Dataset</td>
+        <td>2022</td>
+        <td>Nantes Universite, France</td>
+    </tr>
+     <tr>
+        <td>[42]</td>
+        <td>Zhu-arxiv2023</td>
+        <td>https://github.com/iamazxl/OAVQA</td>
+        <td>2023</td>
+        <td>Shanghai Jiao Tong University</td>
+    </tr>
+     <tr>
+        <td>[43]</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 ### 2.2 Model
