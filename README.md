@@ -445,7 +445,7 @@
      <tr>
         <td>[20]</td>
         <td>Jabar-ICMEW2020</td>
-        <td></td>
+        <td>-</td>
         <td>2020</td>
         <td>Universidade de Lisboa, Portugal</td>
     </tr>
@@ -494,14 +494,14 @@
      <tr>
         <td>[27]</td>
         <td>Schatz-QoMEX2019</td>
-        <td></td>
+        <td>-</td>
         <td>2019</td>
         <td>Austrian Institute of Technology</td>
     </tr>
      <tr>
         <td>[28]</td>
         <td>Yao-QoMEX2019</td>
-        <td></td>
+        <td>-</td>
         <td>2019</td>
         <td>National Tsing Hua University</td>
     </tr>
