@@ -295,6 +295,13 @@
         <td>2020</td>
         <td>Ningbo University</td>
     </tr>
+    <tr>
+        <td>[21]</td>
+        <td>FOIQA</td>
+        <td>https://doi.org/10.5281/zenodo.14009106</td>
+        <td>2025</td>
+        <td>Norwegian University of Science and Technology</td>
+    </tr>
 </table>
 
 #### (2) 360◦ Video
