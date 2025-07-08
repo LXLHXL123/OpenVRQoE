@@ -671,3 +671,5 @@
 <https://github.com/limuhit/VR-Video-Quality-in-the-Wild><br>
 **[10] Learned scanpaths aid blind panoramic video quality assessment.**<br>
 <https://github.com/kalofan/AutoScanpathQA><br>
+**[11] No-reference 360° video quality measurement with local and global features fusion.**<br>
+<https://github.com/yeonhw/360BVQM><br>
